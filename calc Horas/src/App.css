@@ -1,0 +1,36 @@
+h1{
+  text-align: center;
+}
+
+.zeca{
+  text-align: center;
+  background-color: rgb(211, 158, 123);
+  width: max-content;
+  margin: 0 auto;
+  display: block;
+}
+
+input{
+  border-radius: 10px;
+  height: 30px;
+}
+
+button{
+  border-radius: 15px;
+  width: 100px;
+  height: 30px;
+  background-color: cyan;
+}
+
+button:hover{
+  background-color: rgb(108, 108, 241);
+}
+
+body{
+  background-image: url(https://i.kym-cdn.com/photos/images/newsfeed/002/492/561/011);
+  background-size: auto;
+  background-repeat: no-repeat;
+  background-position: center;
+}
+
+
